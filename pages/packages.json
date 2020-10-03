@@ -4,14 +4,14 @@
     {
       "title" : null,
       "name" : "MineTech",
-      "version" : "2020-08-31-21-21-39",
+      "version" : "2020-10-04-01-15-09",
       "location" : "minetech.json",
-      "priority" : 100
+      "priority" : 100000000
     },
     {
       "title" : null,
       "name" : "Mo' Mobs",
-      "version" : "2020-08-31-20-53-44",
+      "version" : "2020-10-04-01-16-01",
       "location" : "mo-mobs.json",
       "priority" : 0
     }
